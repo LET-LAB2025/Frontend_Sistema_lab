@@ -1,0 +1,33 @@
+.sala-container {
+    padding: 20px 40px;
+    margin: 50px auto;
+    width: 600px;
+    text-align: center;
+    background-color: rgb(212, 208, 208);
+    border-radius: 10px;
+  }
+  
+  .salas {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+  }
+  
+  .linha {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .coluna-lado {
+    display: flex;
+    gap: 5px;
+  }
+  
+  .separador {
+    font-size: 24px;
+    font-weight: bold;
+    color: #555;
+  }
+  
